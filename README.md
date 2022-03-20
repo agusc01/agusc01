@@ -14,12 +14,48 @@
 
 ### 🛠 Tech Stack
 
-<img src="html.svg" style="display: inline-block;" alt="html" width="36" height="36" title="html" title="html">
-<br><img src="js.svg" style="display: inline-block;" alt="js" width="36" height="36" title="js"><img src="jquery.svg" style="display: inline-block;" alt="jquery" width="36" height="36" title="jquery"><img src="typescript.svg" style="display: inline-block;" alt="typescript" width="36" height="36" title="typescript"><img src="angular.svg" style="display: inline-block;" alt="angular" width="36" height="36" title="angular">
-<br><img src="css.svg" style="display: inline-block;" alt="css" width="36" height="36" title="css 2.2"><img src="sass.svg" style="display: inline-block;" alt="sass" width="36" height="36" title="sass"><img src="tailwindcss.svg" style="display: inline-block;" alt="tailwindcss" width="36" height="36" title="tailwindcss"><img src="bootstrap.svg" style="display: inline-block;" alt="bootstrap" width="36" height="36" title="bootstrap">
-<br><img src="c.svg" style="display: inline-block;" alt="C" width="36" height="36" title="C"><img src="arduino.svg" style="display: inline-block;" alt="arduino" width="36" height="36" title="arduino"><img src="terminal.svg" style="display: inline-block;" alt="terminal" width="36" height="36" title="terminal"><img src="ubuntu.svg" style="display: inline-block;" alt="ubuntu" width="36" height="36" title="ubuntu"><img src="csharp.svg" style="display: inline-block;" alt="C #" width="36" height="36" title="C #">
-<br><img src="npm.svg" style="display: inline-block;" alt="npm" width="36" height="36" title="npm"><img src="gulp.svg" style="display: inline-block;" alt="gulp" width="36" height="36" title="gulp"><img src="postcss.svg" style="display: inline-block;" alt="postcss" width="36" height="36" title="postcss">
-<br><img src="vim.svg" style="display: inline-block;" alt="vim" width="36" height="36" title="vim"><img src="sublime.svg" style="display: inline-block;" alt="sublime" width="36" height="36" title="sublime"><img src="vscode.svg" style="display: inline-block;" alt="vscode" width="36" height="36" title="vscode">
-<br><img src="php.svg" style="display: inline-block;" alt="php" width="36" height="36" title="php"><img src="mysql.svg" style="display: inline-block;" alt="mysql" width="36" height="36" title="mysql"><img src="json.svg" style="display: inline-block;" alt="json" width="36" height="36" title="json">
-<br>
+<div style="display:flex;flex-wrap:wrap">
   <!-- https://icon-icons.com/ -->
+  <div style="margin-top:8px">
+    <img src="html.svg" style="margin-right:8px" alt="html" width="36" height="36" title="html" title="html">
+  </div>
+
+  <div style="margin-top:8px">
+    <img src="js.svg" style="margin-right:8px" alt="js" width="36" height="36" title="js">
+    <img src="jquery.svg" style="margin-right:8px" alt="jquery" width="36" height="36" title="jquery">
+    <img src="typescript.svg" style="margin-right:8px" alt="typescript" width="36" height="36" title="typescript">
+    <img src="angular.svg" style="margin-right:8px" alt="angular" width="36" height="36" title="angular">
+  </div>
+
+  <div style="margin-top:8px">
+    <img src="css.svg" style="margin-right:8px" alt="css" width="36" height="36" title="css 2.2">
+    <img src="sass.svg" style="margin-right:8px" alt="sass" width="36" height="36" title="sass">
+    <img src="tailwindcss.svg" style="margin-right:8px" alt="tailwindcss" width="36" height="36" title="tailwindcss">
+    <img src="bootstrap.svg" style="margin-right:8px" alt="bootstrap" width="36" height="36" title="bootstrap">
+  </div>
+  <div style="margin-top:8px">
+    <img src="c.svg" style="margin-right:8px" alt="C" width="36" height="36" title="C">
+    <img src="arduino.svg" style="margin-right:8px" alt="arduino" width="36" height="36" title="arduino">
+    <img src="terminal.svg" style="margin-right:8px" alt="terminal" width="36" height="36" title="terminal">
+    <img src="ubuntu.svg" style="margin-right:8px" alt="ubuntu" width="36" height="36" title="ubuntu">
+    <img src="csharp.svg" style="margin-right:8px" alt="C #" width="36" height="36" title="C #">
+  </div>
+  <div style="margin-top:8px">
+    <img src="npm.svg" style="margin-right:8px" alt="npm" width="36" height="36" title="npm">
+    <img src="gulp.svg" style="margin-right:8px" alt="gulp" width="36" height="36" title="gulp">
+    <img src="postcss.svg" style="margin-right:8px" alt="postcss" width="36" height="36" title="postcss">
+  </div>
+
+  <div style="margin-top:8px">
+    <img src="vim.svg" style="margin-right:8px" alt="vim" width="36" height="36" title="vim">
+    <img src="sublime.svg" style="margin-right:8px" alt="sublime" width="36" height="36" title="sublime">
+    <img src="vscode.svg" style="margin-right:8px" alt="vscode" width="36" height="36" title="vscode">
+  </div>
+
+  <div style="margin-top:8px">
+    <img src="php.svg" style="margin-right:8px" alt="php" width="36" height="36" title="php">
+    <img src="mysql.svg" style="margin-right:8px" alt="mysql" width="36" height="36" title="mysql">
+    <img src="json.svg" style="margin-right:8px" alt="json" width="36" height="36" title="json">
+  </div>
+
+</div>
