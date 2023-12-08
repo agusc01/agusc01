@@ -1,11 +1,5 @@
-### Hi There! 👋
+Past -> Associate Degree in Programming (2 years, 21 subjects)
 
-### 👨🏻‍💻 About Me
+Present -> Associate Degree in Informatic Systems (3 years, 36 subjects)
 
-- 🌱 Exploring new technologies and improving my skills at the same time.
-
-- 🎓 Studying programming at UTN-FRA, Buenos Aires, Argentina.
-
-- 📫 How to reach me: Say 3 times my name and I won't appear 😄😄😄 ...
-
-- 🔭 Looking for myself
+Future -> I cannot see it, can you?
